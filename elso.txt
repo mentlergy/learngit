@@ -1,2 +1,3 @@
-Ez itt az első file.
+﻿Ez itt az első file.
 Eredeti tartalom.
+Itt meg hozzáadva.
